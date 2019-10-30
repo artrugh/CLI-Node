@@ -1,0 +1,22 @@
+CLI?
+Command Line Interface.
+https://techterms.com/definition/command_line_interface
+
+Definition - What does Command Line Interface (CLI) mean? 
+Command line interface (CLI) is a text-based interface that is used to operate software
+and operating systems while allowing the user to respond to visual prompts by typing single commands into the interface and receiving a reply in the same way.
+
+A command line interface (or CLI) is a text-based interface used for entering commands. In the early days of computing, before the mouse, it was the standard way to interact with a computer. While the graphic user interface (GUI) has largely replaced CLIs, they are still included with several major operating systems, such as Windows and OS X.
+
+There are many different types of command line interfaces, but the two most popular ones are DOS (for Windows) and the bash shell (for Linux and OS X). Each CLI uses its own command syntax, but they all function in a similar way. For example, every CLI has a command prompt, which is displayed when the interface is ready to accept a command. When you type a command, it shows up next to the command prompt, and when you press Enter, the command is executed.
+
+Below are some examples of command prompts for different command line interfaces, with the root folder as the current directory.
+
+Windows (DOS): C:\>
+OS X (bash shell): My-iMac:/ me$
+Linux (bash shell): [root@myserver /]#
+The standard way to change directories in most CLIs is to use the command cd, followed by the directory path. If you are using Windows, you can type cd C:\Users to access the Users folder. If you're using OS X, you can type cd /Volumes/SSD/Users (assuming the drive name is "SSD"). A few other commands are identical between DOS and the bash shell, but each CLI supports many different commands as well. For example, to list the contents of the current directory, you would type dir in DOS and ls in the bash shell.
+
+Most people prefer a standard graphical user interface to a command line one. However, some operations can actually be completed faster using a keyboard instead of a mouse. Therefore, CLIs are often used by network administrators and webmasters for common tasks like transferring files and checking server status.
+
+NOTE: A command line interface is sometimes referred to as a console or terminal window. OS X includes a utility called "Terminal" that functions as the CLI for OS X.
